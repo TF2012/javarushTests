@@ -10,7 +10,6 @@ target/
 *.jrtc
 *.info
 *.properties
-*.jar
 
 /1.JavaSyntax/
 /2.JavaCore/
