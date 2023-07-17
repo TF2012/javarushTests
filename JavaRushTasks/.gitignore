@@ -1,6 +1,11 @@
 ﻿#############
 ## Idea
 #############
+*.iml
+*.iws
+*.jrtc
+*.info
+*.properties
 
 /1.JavaSyntax/
 /2.JavaCore/
