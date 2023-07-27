@@ -7,7 +7,6 @@ import java.awt.event.KeyEvent;
  */
 public class Tetris {
 
-
     private Field field;                //Поле с клетками
     private Figure figure;              //Фигурка
 
