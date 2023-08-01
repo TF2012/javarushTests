@@ -18,7 +18,7 @@ public class Solution {
 
     @Override
     public boolean equals(Object o) {
-        if (this == o) return true;`
+        if (this == o) return true;
         if (!(o instanceof Solution)) return false;
         Solution solution = (Solution) o;
         return Objects.equals(first, solution.first) && Objects.equals(last, solution.last);
